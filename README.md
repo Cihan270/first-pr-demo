@@ -2,7 +2,7 @@
 
 A small demo project.
 
-## Fetures
+## Features
 
 - Fast
 - Reliable
